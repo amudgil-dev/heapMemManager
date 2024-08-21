@@ -1,0 +1,9 @@
+LINUX HEAP MEMORY MANAGER IN C
+
+- alloc and free MEMORY
+- catch memory leaks
+- show memory stats currently in use for every structure
+- address memory fragmentation problems
+- understand the internal design and implementation of malloc/free
+
+- could visuallise memory usage graphically
